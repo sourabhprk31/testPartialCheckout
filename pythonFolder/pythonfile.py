@@ -16,4 +16,4 @@ def TableToText(table):
         table_string += "| " + " | ".join(row) + " |\n"
     return table_string
 
-print(1+1+1)
+print(1)
