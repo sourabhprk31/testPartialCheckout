@@ -15,3 +15,5 @@ def TableToText(table):
     for row in table[1:]:
         table_string += "| " + " | ".join(row) + " |\n"
     return table_string
+
+print(1+1+1)
